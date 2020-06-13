@@ -6,5 +6,5 @@ place = input("Enter the place : ")
 contact = int(input("Enter the contact number : "))
 
 #string formatting Python V3.6
-print(f"Hello {name} Your age is {age} You are from {place} and Your Contact number is {contact}")
+print("Hello World")
 
